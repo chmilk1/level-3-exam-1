@@ -40,6 +40,7 @@ public class Level3CodingExam {
 
 		assertEquals("TIE", new VoteProcessor().calculateElectionWinner(votes));
 	}
+	//1
 
 	/** 
 	 * PART B
